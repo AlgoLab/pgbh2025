@@ -1,0 +1,24 @@
+title: Pangenome Bio Hacking 2025 Workshop
+description: Pangenome Bio Hacking 2025 Workshop
+baseurl: /
+url: https://algolab.github.io/pgbh2025
+
+permalink: pretty
+theme: jekyll-nagymaros
+
+home: /
+copyright: Place Holder
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
