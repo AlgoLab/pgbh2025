@@ -1,6 +1,6 @@
 ---
 layout: index
-description: A simple Jekyll theme for a conference or workshop website
+description: description
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet luctus venenatis lectus magna fringilla urna. Ut etiam sit amet nisl purus in mollis.
@@ -13,3 +13,6 @@ Vestibulum lectus mauris ultrices eros in cursus.
 - Non diam phasellus vestibulum lorem sed risus ultricies.
 
 Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing elit duis tristique sollicitudin nibh sit amet.
+
+![Forgenome Logo](assets/img/forgenome_logo.avif)
+![EU Logo](assets/img/eu_logo.avif)
