@@ -5,7 +5,7 @@ url: https://algolab.github.io/pgbh2025
 
 permalink: pretty
 # theme: jekyll-nagymaros
-remote_theme: piazzai/jekyll-nagymaros@v3.1.1
+remote_theme: piazzai/jekyll-nagymaros@v3.3.1
 
 home: /
 copyright: Place Holder
