@@ -1,12 +1,18 @@
 groups:
-  - title: Speakers
-    sort: false
+  - title: Confirmed Speakers
+    sort: true
     columns: false
     members:
-      - name: Chirag
-        surname: Jain
+      - name: Davide
+        surname: Bolognini
+        affil: Human Technopole, Italy
+      - name: Simone
+        surname: Ciccolella
+        affil: University of Milano-Bicocca, Italy
+      - name: Luca
+        surname: Denti
         # email: king@pengu.in
-        affil: Indian Institute of Science, India
+        affil: Comenius University in Bratislava, Slovakia
       - name: Shilpa
         surname: Garg
         # email: king@pengu.in
@@ -15,14 +21,24 @@ groups:
         surname: Graudenzi
         # email: king@pengu.in
         affil: University of Milano-Bicocca, Italy
-      - name: Luca
-        surname: Denti
+      - name: Chirag
+        surname: Jain
         # email: king@pengu.in
-        affil: Comenius University in Bratislava, Slovakia
+        affil: Indian Institute of Science, India
       - name: Murray
         surname: Patterson
         # email: king@pengu.in
         affil: Georgia State University, GA, USA
+      - name: Massimiliano
+        surname: Rossi
+        affil: Illumina, US
+#      - name:
+#        surname:
+#        affil:
+
+
+
+
 
   - title: Workshop organizers
     columns: false
