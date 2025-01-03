@@ -32,6 +32,9 @@ groups:
       - name: Massimiliano
         surname: Rossi
         affil: Illumina, US
+      - name: Xian
+        surname: Chang
+        affil: University of California, Santa Cruz, US
 #      - name:
 #        surname:
 #        affil:
