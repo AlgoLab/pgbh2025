@@ -11,23 +11,18 @@ groups:
         affil: University of Milano-Bicocca, Italy
       - name: Luca
         surname: Denti
-        # email: king@pengu.in
         affil: Comenius University in Bratislava, Slovakia
       - name: Shilpa
         surname: Garg
-        # email: king@pengu.in
         affil: Technical University of Denmark, Denmark
       - name: Alex
         surname: Graudenzi
-        # email: king@pengu.in
         affil: University of Milano-Bicocca, Italy
       - name: Chirag
         surname: Jain
-        # email: king@pengu.in
         affil: Indian Institute of Science, India
       - name: Murray
         surname: Patterson
-        # email: king@pengu.in
         affil: Georgia State University, GA, USA
       - name: Massimiliano
         surname: Rossi
@@ -35,6 +30,9 @@ groups:
       - name: Xian
         surname: Chang
         affil: University of California, Santa Cruz, US
+      - name: Davide
+        surname: Cozzi
+        affil: University of Milano-Bicocca, Italy
 #      - name:
 #        surname:
 #        affil:
