@@ -2,6 +2,7 @@
 layout: index
 description: January 22-24, 2025
 ---
+Register [here](https://forms.gle/rwyPpwNLm7LbtmBQ6) to attend.
 
 This workshop is for researchers who have a focus on pangenomics algorithms
 and data structure, and on free and open source software development.
@@ -14,6 +15,7 @@ The main topics will be:
 - Pangenome methods in Cancer Genomics
 
 The meeting will be fully online.
+
 
 ![Forgenome Logo](assets/img/forgenome_logo.avif)
 ![EU Logo](assets/img/eu_logo.avif)
