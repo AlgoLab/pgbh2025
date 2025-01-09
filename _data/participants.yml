@@ -33,6 +33,12 @@ groups:
       - name: Davide
         surname: Cozzi
         affil: University of Milano-Bicocca, Italy
+      - name: Lauren
+        surname: Mak
+        affil: Weill Cornell Medicine, New York, US
+      - name: Anna Paola
+        surname: Carrieri
+        affil: IBM Research Europe, UK
 #      - name:
 #        surname:
 #        affil:
