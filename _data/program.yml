@@ -11,7 +11,8 @@ days:
   - name: Day 1 - January 22
     events:
       - time: 14:00 to 15:00
-        title: TBA
+        title: Alex Graudenzi
+        subtitle: "From evolution models to evolutionary signatures of human cancers"
       - time: 15:00 to 16:00
         title: Shilpa Garg
         subtitle: "Towards routine chromosome-scale haplotype-resolved reconstruction in cancer genomics"
@@ -37,8 +38,8 @@ days:
         title: Luca Denti
         subtitle: "TBA"
       - time: 15:00 to 16:00
-        title: Alex Graudenzi
-        subtitle: "From evolution models to evolutionary signatures of human cancers"
+        title: Lauren Mak
+        subtitle: "TBA"
       - time: 16:00 to 17:00
         title: Murray Patterson
         subtitle: "TBA"
@@ -76,7 +77,7 @@ days:
         subtitle: "TBA"
       - time: 10:00 to 11:00
         title: Anna Paola Carrieri
-        subtitle: "TBA"
+        subtitle: "Biomedical Foundation Models for genomics"
       - time: 11:00 to 12:00
         title: Simone Ciccolella
         subtitle: "TBA"
