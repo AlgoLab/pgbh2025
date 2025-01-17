@@ -47,11 +47,14 @@ days:
   - name: Day 3 - January 24
     events:
       - time: 9:00 to 10:00
-        title: Davide Cozzi
-        subtitle: "TBA"
+        title: Simone Rubinacci
+        subtitle: "Identity-by-Descent and phasing methods for Genome-Wide Association Studies"
       - time: 10:00 to 11:00
         title: Anna Paola Carrieri
         subtitle: "Biomedical Foundation Models for genomics"
       - time: 11:00 to 12:00
+        title: Davide Cozzi
+        subtitle: "TBA"
+      - time: 12:00 to 13:00
         title: Simone Ciccolella
         subtitle: "TBA"
