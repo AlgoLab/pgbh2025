@@ -39,9 +39,9 @@ groups:
       - name: Anna Paola
         surname: Carrieri
         affil: IBM Research Europe, UK
-     - name: Simone
-       surname: Rubinacci
-       affil: Institute for Molecular Medicine Finland (FIMM), Finland
+      - name: Simone
+        surname: Rubinacci
+        affil: Institute for Molecular Medicine Finland (FIMM), Finland 
 #      - name:
 #        surname:
 #        affil:
