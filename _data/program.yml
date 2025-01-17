@@ -29,7 +29,7 @@ days:
         subtitle: "Short and long read pangenome mapping with vg giraffe"
       - time: 11:00 to 12:00
         title: Davide Bolognini
-        subtitle: "TBA"
+        subtitle: "Pangenome-based inference of complex haplotypes from sequencing"
 
       - time: 12:00 to 14:00
         title: Lunch break
