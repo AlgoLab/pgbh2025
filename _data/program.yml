@@ -22,7 +22,7 @@ days:
   - name: Day 2 - January 23
     events:
       - time: 9:00 to 10:00
-        title: Cirag Jain
+        title: Chirag Jain
         subtitle: "Pangenome-based genome inference via integer programming"
       - time: 10:00 to 11:00
         title: Xian Chang
