@@ -36,40 +36,14 @@ days:
         
       - time: 14:00 to 15:00
         title: Luca Denti
-        subtitle: "TBA"
+        subtitle: "Pangenome graph augmentation from unassembled long reads"
       - time: 15:00 to 16:00
         title: Lauren Mak
-        subtitle: "TBA"
+        subtitle: "The Microbiome-in-a-Bottle Project: From Metagenomes to Pangenomes"
       - time: 16:00 to 17:00
         title: Murray Patterson
-        subtitle: "Characterizing genomic subtypes from Genomic Big Data"
+        subtitle: "Characterizing viral subtypes from genomic big data"
 
-      # - time: 9:00 to 11:00
-      #   title: Tempor incididunt
-      #   subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-      #   category: A category
-      #   paper: /assets/files/paper-1.pdf
-      # - time: 11:00 to 13:00
-      #   title: Ut labore et dolore
-      #   subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-      #   category: Another category
-      # - time: 13:00 to 14:00
-      #   title: Lunch break
-      # - time: 14:00 to 16:00
-      #   title: Magna aliqua
-      #   subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-      #   category: Yet another category
-      #   paper: /assets/files/paper-2.pdf
-      #   slides: /assets/files/slides.pdf
-      # - time: 16:00 to 18:00
-      #   title: Poster presentations
-      #   category: Yet another category
-      #   poster:
-      #     - /assets/files/poster-a.pdf
-      #     - /assets/files/poster-b.pdf
-      #     - /assets/files/poster-c.pdf
-      # - time: 18:00 to 19:00
-      #   title: Closing
   - name: Day 3 - January 24
     events:
       - time: 9:00 to 10:00
