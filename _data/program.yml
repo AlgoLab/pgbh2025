@@ -54,7 +54,7 @@ days:
         subtitle: "Biomedical Foundation Models for genomics"
       - time: 11:00 to 12:00
         title: Davide Cozzi
-        subtitle: "TBA"
+        subtitle: "Indexing pangenomic haplotype data using the Positional BWT"
       - time: 12:00 to 13:00
         title: Simone Ciccolella
         subtitle: "Modelling and combinatorial approaches for Pangenomics"
