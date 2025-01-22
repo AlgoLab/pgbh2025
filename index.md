@@ -4,8 +4,9 @@ description: January 22-24, 2025
 ---
 
 
-Register [here](https://forms.gle/rwyPpwNLm7LbtmBQ6) to attend.
+<!--Register [here](https://forms.gle/rwyPpwNLm7LbtmBQ6) to attend.-->
 ## [Link to live streamings](https://www.youtube.com/@pangaiaproject9687/streams)
+Join the matrix chat for questions [here](https://matrix.to/#/%23pgbh2025:matrix.org)
 
 This workshop is for researchers who have a focus on pangenomics algorithms
 and data structure, and on free and open source software development.
